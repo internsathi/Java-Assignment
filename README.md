@@ -58,7 +58,13 @@ View:
 
 Please provide the following for your submission:
 
-- The source code of the Java project.
-- Instructions on how to set up and run the project locally.
-- Any additional notes or comments regarding your implementation.
-- Feel free to ask if you have any questions in the discussion section of this repository. Good luck with your internship application!
+1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
+2. Commit your code regularly and push the changes to your forked repository.
+3. Do not create a pull request; just submit your forked repository.
+4. Provide a DOCS.md file with all the technologies used and how to run the program locally.
+5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/b7WpQyeZFUipoxb5A).
+
+- Submission Deadline: Task Submission: 2023/07/21 12:00 AM
+
+Check out the discussion section of this repo to ask any related queries or doubts.
+Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
