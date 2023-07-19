@@ -66,5 +66,5 @@ Please provide the following for your submission:
 
 - Submission Deadline: Task Submission: 2023/07/21 12:00 AM
 
-Check out the discussion section of this repo to ask any related queries or doubts.
+Check out the [discussion section](https://github.com/internsathi/Java-Assignment/discussions) of this repo to ask any related queries or doubts.
 Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
