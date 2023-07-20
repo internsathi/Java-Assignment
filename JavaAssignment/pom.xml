@@ -8,7 +8,8 @@
 	<name>JavaAssignment</name>
 	<description>Assignment Using Spring Boot, MySQL</description>
 	<properties>
-		<java.version>17</java.version>
+		 <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-parent -->
@@ -18,6 +19,7 @@
 		    <version>2.3.4.RELEASE</version>
 		    <type>pom</type>
 		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-crypto -->
 		<dependency>
 		    <groupId>org.springframework.security</groupId>
