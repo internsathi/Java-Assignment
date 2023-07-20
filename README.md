@@ -63,8 +63,9 @@ Please provide the following for your submission:
 3. Do not create a pull request; just submit your forked repository.
 4. Provide a DOCS.md file with all the technologies used and how to run the program locally.
 5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/b7WpQyeZFUipoxb5A).
+6. Join this discord server to get an update: [Join Here](https://discord.gg/5qbGZP7V8g)
 
-- Submission Deadline: Task Submission: 2023/07/21 12:00 AM
+- Submission Deadline: Task Submission: 2023/07/22 11:45 AM
 
 Check out the [discussion section](https://github.com/internsathi/Java-Assignment/discussions) of this repo to ask any related queries or doubts.
 Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
