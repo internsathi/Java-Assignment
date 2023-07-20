@@ -33,8 +33,6 @@ public class User {
 	@NotBlank(message = "Passwordcannot be blank")
 	@Size(message = "Password must be atleast 6 characters")
 	private String password;
-	private String role;
-	private String enabled;
 	
 	
 }

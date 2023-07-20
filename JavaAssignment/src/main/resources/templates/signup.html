@@ -10,6 +10,13 @@
 
 	<div class="container main">
 		<div class="sub-container secondary">
+		<div th:if="${session.message}" class="container">
+			<div class="alert text-center"
+				th:classappend="${'alert-'+session.message.type}" role="alert">
+				<span th:text=${session.message.content}></span>
+			</div>
+			<th:block th:text="${#session.removeAttribute('message')}"></th:block>
+		</div>
 			<h2 class="text-center mb-5">Register Page</h2>
 			<form method="post" th:action="@{/process-signup}" novalidate
 				th:object="${user}">

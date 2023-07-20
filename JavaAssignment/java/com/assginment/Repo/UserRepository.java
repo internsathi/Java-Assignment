@@ -8,6 +8,6 @@ import com.assginment.Model.User;
 @Repository
 public interface UserRepository extends JpaRepository<User, Integer>{
 	
-	User findByEmail(String email);
+	public User findByEmail(String email);
 
 }
