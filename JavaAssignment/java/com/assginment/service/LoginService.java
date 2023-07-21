@@ -3,7 +3,7 @@ package com.assginment.service;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.assginment.Model.User;
+import com.assginment.model.User;
 
 @Service
 public class LoginService {
@@ -24,5 +24,9 @@ public class LoginService {
 
 		// Compare hashed inputted password with the hashed password from the database
 		return passwordEncoder.matches(password, user.getPassword());
+	}
+	
+	public String generatePassword(String password) {
+		return passwordEncoder.encode(password);
 	}
 }

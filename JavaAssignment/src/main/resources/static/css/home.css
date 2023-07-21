@@ -1,0 +1,39 @@
+
+.navbar{
+	z-index:99999;
+}
+
+
+
+.secondary{
+	background-color: #ececec;
+	padding: 45px;
+	border-radius:20px;
+	box-shadow: 5px 5px 10px 1px rgba(0,0,0,0.2);
+	min-width:500px;
+	min-height:200px;
+	opacity: 85%;
+	margin-top: 100px;
+}
+
+.button{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.content {
+	background-color: #ececec;
+	padding-top:100px;
+	height:100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.password-container {
+	width:500px;
+
+}

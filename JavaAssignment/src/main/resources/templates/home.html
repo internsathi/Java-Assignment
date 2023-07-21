@@ -1,16 +1,15 @@
 <!doctype html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org"
-	th:replace="base::layout(~{::div})">
+	th:replace="HomeBase::layout(~{::section})">
 <head>
 <meta charset="UTF-8" />
 <title th:text="${title}">Document</title>
 </head>
 <body>
+	<section class="content">
+		<h1>Hello World</h1>
+	</section>
 
 
-	<div class="container main">
-	<h1>hello</h1>
-		<p th:text="${email}"></p>
-	</div>
 </body>
 </html>
